@@ -1,0 +1,2 @@
+selenium
+opencv-python
